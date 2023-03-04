@@ -15,3 +15,11 @@ General topic: "AN EXPLORATION OF THE SECURITY FEATURES IN MICROSOFT'S WINDOWS O
 11.	The netstat command
 12.	Encryption and data protection (BitLocker)
 13.	Improve security in your Windows 11.
+
+
+## Assigned to Devgeix
+
+- **[The netstat command](Devgenix/netstat.md)**
+- **[Encryption and Data protection (BitLocker)](Devgenix/Encryption_and_Data_protection.md)**
+- **[Hypervisor-Protected Code Integrity (HVCI)](Devgenix/Hypervisor_Protected_Code_Integrity.md)**
+
