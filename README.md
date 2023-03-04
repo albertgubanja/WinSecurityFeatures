@@ -17,7 +17,7 @@ General topic: "AN EXPLORATION OF THE SECURITY FEATURES IN MICROSOFT'S WINDOWS O
 13.	Improve security in your Windows 11.
 
 
-## Assigned to Devgeix
+## Assigned to Devgenix
 
 - **[The netstat command](Devgenix/netstat.md)**
 - **[Encryption and Data protection (BitLocker)](Devgenix/Encryption_and_Data_protection.md)**
